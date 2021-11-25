@@ -19,6 +19,7 @@ average:2
 #enter 3rd num:3
 #sum:6
 #average:2
+//INKO TEST CASE ADD CHAY BAY
 
 
 
